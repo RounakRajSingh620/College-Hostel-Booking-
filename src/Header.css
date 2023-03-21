@@ -40,13 +40,11 @@
 }
 
 .header_right {
-   display: flex;
-    
-
+    display: flex;
 }
 
 .content {
-    color: #eef3f8 ;
+    color: #eef3f8;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -55,5 +53,5 @@
     width: 125px;
 
 
-   
+
 }
