@@ -40,10 +40,20 @@
 }
 
 .header_right {
-    display: flex;
-    justify-content: space-between;
+   display: flex;
+    
+
 }
 
-.header_right>items {
-    align-content: center;
+.content {
+    color: #eef3f8 ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    padding: 2px;
+    width: 125px;
+
+
+   
 }

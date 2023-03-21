@@ -12,11 +12,11 @@ function header() {
                 <input placeholder='Search' type="text" />
             </div>
             <div className="header_right">
-            <a className='items' href="https://www.srmist.edu.in/students/">Students</a>
-            <a className='items' href="https://www.srmist.edu.in/faculty-gateway/">Faculty & Staff</a>
-            <a className='items' href="https://www.srmist.edu.in/parents/">Parents</a>
-            <a className='items' href="https://www.srmist.edu.in/visitors/">Visitors</a>
-            <a className='items' href="https://alumni.srmist.edu.in/">Alumni</a>
+            <a className='content' href="https://www.srmist.edu.in/students/">Students</a>
+            <a className='content' href="https://www.srmist.edu.in/faculty-gateway/">Faculty & Staff</a>
+            <a className='content' href="https://www.srmist.edu.in/parents/">Parents</a>
+            <a className='content' href="https://www.srmist.edu.in/visitors/">Visitors</a>
+            <a className='content' href="https://alumni.srmist.edu.in/">Alumni</a>
     
         
             </div>
