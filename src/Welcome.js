@@ -4,11 +4,12 @@ function Welcome() {
     return (
         <div>
             <div className="container">
-                <img className='overlay' src="https://www.srmist.edu.in/wp-content/uploads/2022/04/Building_Hostel-and-Lake_0C6A7841-1-scaled.jpg" alt="" srcset="" />
+                <img className="overlay" src="https://www.srmist.edu.in/wp-content/uploads/2022/04/Building_Hostel-and-Lake_0C6A7841-1-scaled.jpg" alt="" srcset="" />
                 <div className="container_text">
-                <h1>Welcome to SRM HOSTELS</h1>
-                <button className='btn'>Book Hostel &#8594;</button>
-                <button className='btn'>Contact Us &#8594;</button>
+                <h1 className='text'>Welcome to SRM Hostels</h1>
+                <button className="button-89" >Book Hostel &#10132;</button>
+                <button className="button-89" >Contact Us &#10132;</button>
+                
                 </div>
                 
 
