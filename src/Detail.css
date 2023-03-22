@@ -1,0 +1,27 @@
+.Abouts {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.About_Acc{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 700;
+    margin: 20px;
+    text-decoration:underline 5px rgb(190, 78, 190) ;
+   
+    
+}
+.points{
+    display: block;
+    justify-content:center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    font-weight: 545 ;
+    font-size: x-large ;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
