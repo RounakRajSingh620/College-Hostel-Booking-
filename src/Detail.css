@@ -81,41 +81,49 @@
     margin-top: 100px;
     height: 600px;
 }
-.schedule{
+
+.schedule {
     background-color: rgb(59, 90, 173);
     height: 450px;
-   /* margin-top: 50px;
+    /* margin-top: 50px;
    margin-bottom: 50px; */
-   margin: 80px;
-   display: flex;
-   justify-content: flex-end;
+    margin: 80px;
+    display: flex;
+    justify-content: flex-end;
 }
-.hostel_schedule{
-    width: 50%  ;
+
+.hostel_schedule {
+    width: 50%;
 }
-.hostel_schedule>h2{
+
+.hostel_schedule>h2 {
     font-size: xx-large;
     font-weight: 500;
     margin-top: 70px;
     margin-bottom: 50px;
     padding: 5px;
 }
-.hostel_schedule>p{
+
+.hostel_schedule>p {
     font-weight: 600;
     font-size: x-large;
     padding: 15px;
     text-decoration-line: underline;
+
 }
-.four_image{
+
+.four_image {
     display: grid;
     column-gap: 50px;
+    row-gap: 25px;
     grid-template-columns: auto auto;
     /* background-color: RED; */
     padding: 10px;
     width: auto;
 }
-.pics2{
- height: 170px;
- width: 250px;
+
+.pics2 {
+    height: 195px;
+    width: 250px;
 
 }

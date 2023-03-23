@@ -26,7 +26,6 @@ function Detail() {
                     <div className="hostel_schedule">
                         <h2>Online Hostel Booking Schedule For<br></br> Academic Year 2023-24</h2>
                         <p>➱For Senior Students - Boys & Girls - KTR Campus (CSH, Law, Management)</p>
-
                         <p>➱For Senior Students - Boys & Girls - KTR Campus (E&T)</p>
                     </div>
                     <div className="four_image">
