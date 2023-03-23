@@ -22,20 +22,21 @@ function Detail() {
 
             </div>
             <div className="Abouts3">
-            <div className="schedule">
-            <div className="hostel_schedule">
-            <h2>Online Hostel Booking Schedule For Academic Year 2023-24</h2>
-            <p>➱For Senior Students - Boys & Girls - KTR Campus (CSH, Law, Management</p>
-            <p>➱For Senior Students - Boys & Girls - KTR Campus (E&T)</p>
-            </div>
-            <div className="four_image">
-            <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/SRM_GirlsHostel.jpg" alt="" srcset="" />
-            <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Girls_NightingaleHostelVOOL-12-768x540.jpg" alt="" srcset="" />
-            <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Hostel1-768x432.png" alt="" srcset="" />
-            <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/04/Copy-of-Building_Hostels-and-Sky-and-Sunset_VOOL0390__c-768x1152.jpg" alt="" srcset="" />
-            </div>
+                <div className="schedule">
+                    <div className="hostel_schedule">
+                        <h2>Online Hostel Booking Schedule For<br></br> Academic Year 2023-24</h2>
+                        <p>➱For Senior Students - Boys & Girls - KTR Campus (CSH, Law, Management)</p>
 
-            </div>
+                        <p>➱For Senior Students - Boys & Girls - KTR Campus (E&T)</p>
+                    </div>
+                    <div className="four_image">
+                        <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/SRM_GirlsHostel.jpg" alt="" srcset="" />
+                        <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Girls_NightingaleHostelVOOL-12-768x540.jpg" alt="" srcset="" />
+                        <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Hostel1-768x432.png" alt="" srcset="" />
+                        <img className="pics2" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/04/Copy-of-Building_Hostels-and-Sky-and-Sunset_VOOL0390__c-768x1152.jpg" alt="" srcset="" />
+                    </div>
+
+                </div>
             </div>
         </div>
     )

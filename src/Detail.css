@@ -82,13 +82,29 @@
     height: 600px;
 }
 .schedule{
-    background-color: aqua;
-    height: 400px;
+    background-color: rgb(59, 90, 173);
+    height: 450px;
    /* margin-top: 50px;
    margin-bottom: 50px; */
-   margin: 50px;
+   margin: 80px;
    display: flex;
-   justify-content: center;
+   justify-content: flex-end;
+}
+.hostel_schedule{
+    width: 50%  ;
+}
+.hostel_schedule>h2{
+    font-size: xx-large;
+    font-weight: 500;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+.hostel_schedule>p{
+    font-weight: 600;
+    font-size: x-large;
+    padding: 15px;
+    text-decoration-line: underline;
 }
 .four_image{
     display: grid;
