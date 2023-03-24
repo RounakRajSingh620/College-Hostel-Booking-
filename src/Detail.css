@@ -143,7 +143,7 @@
     width: 100%;
     margin-left: 200px;
     margin-right: 200px;
-    height: 600px;
+    height: 650px;
 }
 
 .Hostel_1>h1 {
@@ -160,12 +160,14 @@
     padding: 20px;
     margin: 20px;
     
+    
 }
 
 .Hostel_Men {
     width: 30%;
     padding: 10px;
     margin-right: 20px;
+    height: 500px;
 
 }
 
@@ -229,15 +231,18 @@
 .Hostel_Women {
     padding: 10px;
     width: 30%;
+    height: 500px;
 }
 
 .Hostel_Men>img {
-    height: 200px;
+    height: 300px;
+    width: 100%;
     align-items: center;
 }
 
 .Hostel_Women>img {
-    height: 200px;
+    height: 300px;
+    width: 100%;
 }
 .Hostel_Women>h4 {
     height: 30px;

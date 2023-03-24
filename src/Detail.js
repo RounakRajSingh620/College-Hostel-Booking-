@@ -40,7 +40,7 @@ function Detail() {
             <div className="Hostel">
                 <div className="Hostel_1">
                     <h1>Hostels</h1>
-                    <div className="Hostel">
+                    <div className="Hostel_s">
                         <div className="Hostel_Men">
                             <img src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Boys_Hostel-768x512.png" alt="" srcset="" />
                             <h4>Hostels For Men</h4>
