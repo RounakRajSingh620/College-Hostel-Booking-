@@ -131,3 +131,128 @@
     width: 250px;
 
 }
+
+.Hostel {
+    display: flex;
+    justify-content: center;
+    height: 800px;
+}
+
+.Hostel_1 {
+    margin-top: 100px;
+    width: 100%;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 600px;
+}
+
+.Hostel_1>h1 {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Hostel_s {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.Hostel_Men {
+    width: 30%;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+.Hostel_Men>h4 {
+    height: 30px;
+    margin: 15px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Hostel_Men>p {
+    margin: 15px;
+    font-size: medium;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button-52 {
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 13px 20px 13px;
+  outline: 0;
+  border: 1px solid black;
+  cursor: pointer;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-52:after {
+  content: "";
+  background-color: #ffe54c;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  top: 7px;
+  left: 7px;
+  transition: 0.2s;
+}
+
+.button-52:hover:after {
+  top: 0px;
+  left: 0px;
+}
+
+@media (min-width: 768px) {
+  .button-52 {
+    padding: 13px 50px 13px;
+  }
+}
+
+
+.Hostel_Women {
+    padding: 10px;
+    width: 30%;
+}
+
+.Hostel_Men>img {
+    height: 200px;
+    align-items: center;
+}
+
+.Hostel_Women>img {
+    height: 200px;
+}
+.Hostel_Women>h4 {
+    height: 30px;
+    margin: 15px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Hostel_Women>p {
+    margin: 15px;
+    font-size: medium;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
