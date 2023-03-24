@@ -136,6 +136,7 @@
     display: flex;
     justify-content: center;
     height: 800px;
+    background-color: lightgray;
 }
 
 .Hostel_1 {
@@ -144,6 +145,7 @@
     margin-left: 200px;
     margin-right: 200px;
     height: 650px;
+
 }
 
 .Hostel_1>h1 {
@@ -151,6 +153,7 @@
     justify-content: center;
     font-size: xxx-large;
     font-weight: 500;
+    text-decoration: underline;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -159,8 +162,8 @@
     justify-content: center;
     padding: 20px;
     margin: 20px;
-    
-    
+
+
 }
 
 .Hostel_Men {
@@ -168,7 +171,7 @@
     padding: 10px;
     margin-right: 20px;
     height: 500px;
-
+    background-color: rgb(223, 200, 200);
 }
 
 .Hostel_Men>h4 {
@@ -179,59 +182,26 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     justify-content: center;
+    text-decoration: underline;
 
 }
 
 .Hostel_Men>p {
     margin: 15px;
+    padding: 5px;
     font-size: medium;
     font-weight: 400;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.button-52 {
-  font-size: 16px;
-  font-weight: 200;
-  letter-spacing: 1px;
-  padding: 13px 20px 13px;
-  outline: 0;
-  border: 1px solid black;
-  cursor: pointer;
-  position: relative;
-  background-color: rgba(0, 0, 0, 0);
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-}
-
-.button-52:after {
-  content: "";
-  background-color: #ffe54c;
-  width: 100%;
-  z-index: -1;
-  position: absolute;
-  height: 100%;
-  top: 7px;
-  left: 7px;
-  transition: 0.2s;
-}
-
-.button-52:hover:after {
-  top: 0px;
-  left: 0px;
-}
-
-@media (min-width: 768px) {
-  .button-52 {
-    padding: 13px 50px 13px;
-  }
-}
 
 
 .Hostel_Women {
     padding: 10px;
     width: 30%;
     height: 500px;
+    background-color: rgb(223, 200, 200);
+    text-decoration: underline;
 }
 
 .Hostel_Men>img {
@@ -244,6 +214,7 @@
     height: 300px;
     width: 100%;
 }
+
 .Hostel_Women>h4 {
     height: 30px;
     margin: 15px;
@@ -259,5 +230,67 @@
     margin: 15px;
     font-size: medium;
     font-weight: 400;
+    padding: 5px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.button-48 {
+    appearance: none;
+    background-color: #FFFFFF;
+    border-width: 0;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Clarkson, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1em;
+    margin: 0;
+    opacity: 1;
+    outline: 0;
+    padding: 1.5em 2.2em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: geometricprecision;
+    text-transform: uppercase;
+    transition: opacity 300ms cubic-bezier(.694, 0, 0.335, 1), background-color 100ms cubic-bezier(.694, 0, 0.335, 1), color 100ms cubic-bezier(.694, 0, 0.335, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.button-48:before {
+    animation: opacityFallbackOut .5s step-end forwards;
+    backface-visibility: hidden;
+    background-color: #EBEBEB;
+    clip-path: polygon(-1% 0, 0 0, -25% 100%, -1% 100%);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: translateZ(0);
+    transition: clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1), -webkit-clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1);
+    width: 100%;
+}
+
+.button-48:hover:before {
+    animation: opacityFallbackIn 0s step-start forwards;
+    clip-path: polygon(0 0, 101% 0, 101% 101%, 0 101%);
+}
+
+.button-48:after {
+    background-color: #FFFFFF;
+}
+
+.button-48 span {
+    z-index: 1;
+    position: relative;
 }

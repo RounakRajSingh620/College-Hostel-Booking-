@@ -45,14 +45,15 @@ function Detail() {
                             <img src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/Boys_Hostel-768x512.png" alt="" srcset="" />
                             <h4>Hostels For Men</h4>
                             <p>There are 14 blocks allotted for Men of capacity varying from 200 to 1000 students in each block. The total capacity for Men’s hostel is about 7500.</p>
-                   
-                            <button class="button-52" >Explore</button>
-                        </div>
-                        <div className="Hostel_Women">
+                            <button class="button-48" ><span class="Explore">Explore</span></button>
+                            
+                            </div>
+                            <div className="Hostel_Women">
                             <img src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/SRM_GirlsHostel.jpg" alt="" srcset="" />
                             <h4>Hostels For Women</h4>
                             <p>There are 7 blocks allotted for Women students of capacity varying from 250 to 700 in each block. The total capacity for Women’s hostel is about 4000.</p>
-                            <button class="button-52" >Explore</button>
+                            
+                            <button class="button-48" ><span class="Explore">Explore</span></button>
                         </div>
                     </div>
                 </div>
