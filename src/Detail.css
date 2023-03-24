@@ -33,7 +33,7 @@
     display: flex;
     justify-content: flex-start;
     margin-left: 200px;
-    margin-right: 250px;
+    margin-right: 200px;
     height: 400px;
     border-radius: 10px;
     padding-left: 60px;
@@ -88,8 +88,12 @@
     /* margin-top: 50px;
    margin-bottom: 50px; */
     margin: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
+    padding-left: 60px;
+    border-radius: 10px;
 }
 
 .hostel_schedule {

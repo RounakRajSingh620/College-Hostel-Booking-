@@ -35,7 +35,7 @@
 
 .text {
     background: linear-gradient(to bottom, #ffffcc 0%, #66ccff 100%);
-    color:rgb(116, 113, 113);
+    color: rgb(116, 113, 113);
 }
 
 .container_text>button {
