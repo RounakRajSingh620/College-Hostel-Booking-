@@ -204,16 +204,22 @@
     text-decoration: underline;
 }
 
-.Hostel_Men>img {
+.HostelImg {
     height: 300px;
     width: 100%;
     align-items: center;
+    transition: 0.5s all ease-in-out;
+    overflow: hidden;
+    
+}
+.Hostelimg :hover{
+    transform: scale(2);
 }
 
-.Hostel_Women>img {
+/* .Hostel_Women>img {
     height: 300px;
     width: 100%;
-}
+} */
 
 .Hostel_Women>h4 {
     height: 30px;
