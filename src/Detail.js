@@ -46,17 +46,42 @@ function Detail() {
                             <h4>Hostels For Men</h4>
                             <p>There are 14 blocks allotted for Men of capacity varying from 200 to 1000 students in each block. The total capacity for Men’s hostel is about 7500.</p>
                             <button class="button-48" ><span class="Explore">Explore</span></button>
-                            
-                            </div>
-                            <div className="Hostel_Women">
+
+                        </div>
+                        <div className="Hostel_Women">
                             <img className="HostelImg" src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/03/SRM_GirlsHostel.jpg" alt="" srcset="" />
                             <h4>Hostels For Women</h4>
                             <p>There are 7 blocks allotted for Women students of capacity varying from 250 to 700 in each block. The total capacity for Women’s hostel is about 4000.</p>
-                            
+
                             <button class="button-48" ><span class="Explore">Explore</span></button>
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className="info">
+                <div className="info2">
+                    <div className="how">
+                        <h2>How And When To Apply?</h2>
+                        <p>&#8227;Application for admission to the hostel for the first year and subsequent years should be made online only (https://sp.srmist.edu.in )</p>
+                        <p>&#8227;For senior students, renewal of hostel admission also should be made online only.</p>
+                        <p>&#8227;No student will be allowed to stay in the hostel without formal admission.</p>
+                        <p>&#8227;The hostel administration may refuse admission/renewal to any member without assigning reasons.</p>
+                        <p>&#8227;Every student should submit an undertaking before occupying the hostel that they will abide by the rules and regulations of the hostels and that he / she will adhere to the discipline imposed on him / her by the authorities. This undertaking has to be signed by the parent/guardian.</p>
+                        <p>&#8227;Online hostel booking will be announced to the students through the student’s portal well in advance.</p>
+                    </div>
+                    <div className="who">
+                        <h2>Who can Apply?</h2>
+                        <h4>Eligible Categories:</h4>
+                        <p>&#8227;Full time bonafide undergraduate, postgraduate and research students of Faculty of Engineering and Technology, Medicine and Health Sciences, Science & Humanities, Management and Law</p>
+                        <p>&#8227;Full-time bonafide diploma students of Polytechnic and Hotel Management</p>
+                        <h4>Non-Eligible Categories:</h4>
+                        <p>&#8227;Students who have failed and are not re-admitted as regular students</p>
+                        <p>&#8227;Students enrolled in a part-time, evening course, correspondence or any external course of study</p>
+                        <p>&#8227;Students penalized for indiscipline activities</p>
+                        <p>&#8227;Working men / women and ex-students</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     )
