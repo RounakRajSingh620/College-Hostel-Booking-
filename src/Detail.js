@@ -62,22 +62,27 @@ function Detail() {
                 <div className="info2">
                     <div className="how">
                         <h2>How And When To Apply?</h2>
-                        <p>&#8227;Application for admission to the hostel for the first year and subsequent years should be made online only (https://sp.srmist.edu.in )</p>
-                        <p>&#8227;For senior students, <br>
-                          </br>   renewal of hostel admission also should be made online only.</p>
+                        <p>&#8227;Application for admission to the hostel for the first year and <br>
+                        </br>&nbsp; subsequent years should be made online only (https://sp.srmist.edu.in )</p>
+                        <p>&#8227;For senior students,renewal of hostel admission also should be made online only.</p>
                         <p>&#8227;No student will be allowed to stay in the hostel without formal admission.</p>
                         <p>&#8227;The hostel administration may refuse admission/renewal to any member without assigning reasons.</p>
-                        <p>&#8227;Every student should submit an undertaking before occupying the hostel that they will abide by the rules and regulations of the hostels and that he / she will adhere to the discipline imposed on him / her by the authorities.<br></br> This undertaking has to be signed by the parent/guardian.</p>
+                        <p>&#8227;Every student should submit an undertaking before occupying the hostel that they will <br>
+                        </br>&nbsp; abide by the rules and regulations of the hostels and that he / she will adhere to the <br>
+                        </br>&nbsp; discipline imposed on him / her by the authorities.<br></br> This undertaking has to be signed by the parent/guardian.</p>
                         <p>&#8227;Online hostel booking will be announced to the students through the student’s portal well in advance.</p>
                     </div>
                     <div className="who">
                         <h2>Who can Apply?</h2>
                         <h4>Eligible Categories:</h4>
-                        <p>&#8227;Full time bonafide undergraduate, postgraduate and research students of Faculty of Engineering and Technology, Medicine and Health Sciences, Science & Humanities, Management and Law</p>
+                        <p>&#8227;Full time bonafide undergraduate, postgraduate and research students of Faculty of Engineering <br>
+                        </br>&nbsp;and Technology, Medicine and Health Sciences, Science & Humanities,<br>
+                        </br>&nbsp; Management and Law</p>
                         <p>&#8227;Full-time bonafide diploma students of Polytechnic and Hotel Management</p>
                         <h4>Non-Eligible Categories:</h4>
                         <p>&#8227;Students who have failed and are not re-admitted as regular students</p>
-                        <p>&#8227;Students enrolled in a part-time, evening course, correspondence or any external course of study</p>
+                        <p>&#8227;Students enrolled in a part-time, evening course, correspondence or <br>
+                        </br>&nbsp;any external course of study</p>
                         <p>&#8227;Students penalized for indiscipline activities</p>
                         <p>&#8227;Working men / women and ex-students</p>
                     </div>

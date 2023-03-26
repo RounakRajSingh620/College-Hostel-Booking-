@@ -306,24 +306,27 @@
 .info{
     background-color: #FFFFFF;
     height: 800px;
+    width:100%;
 }
 .info2{
-    width:100%;
     height: 600px;
     display: flex;
     justify-content: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    
     
     
 
 }
 .how{
     height: 500px;
-    width: 50%;
+   
     
 }
 .who{
     height: 500px;
-    width: 50%;
+    
 }
