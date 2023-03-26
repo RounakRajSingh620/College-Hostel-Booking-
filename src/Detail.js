@@ -63,10 +63,11 @@ function Detail() {
                     <div className="how">
                         <h2>How And When To Apply?</h2>
                         <p>&#8227;Application for admission to the hostel for the first year and subsequent years should be made online only (https://sp.srmist.edu.in )</p>
-                        <p>&#8227;For senior students, renewal of hostel admission also should be made online only.</p>
+                        <p>&#8227;For senior students, <br>
+                          </br>   renewal of hostel admission also should be made online only.</p>
                         <p>&#8227;No student will be allowed to stay in the hostel without formal admission.</p>
                         <p>&#8227;The hostel administration may refuse admission/renewal to any member without assigning reasons.</p>
-                        <p>&#8227;Every student should submit an undertaking before occupying the hostel that they will abide by the rules and regulations of the hostels and that he / she will adhere to the discipline imposed on him / her by the authorities. This undertaking has to be signed by the parent/guardian.</p>
+                        <p>&#8227;Every student should submit an undertaking before occupying the hostel that they will abide by the rules and regulations of the hostels and that he / she will adhere to the discipline imposed on him / her by the authorities.<br></br> This undertaking has to be signed by the parent/guardian.</p>
                         <p>&#8227;Online hostel booking will be announced to the students through the student’s portal well in advance.</p>
                     </div>
                     <div className="who">
