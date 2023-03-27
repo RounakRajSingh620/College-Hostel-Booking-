@@ -317,7 +317,7 @@
     margin-left: 150px;
     margin-right: 150px;
     padding-top: 50px;
-    /* background-color: aliceblue; */
+    background-color: aliceblue;
 }
 
 .how {
@@ -327,11 +327,11 @@
 
 .how>h2 {
     padding: 15px;
-    /* font-size: xx-large; */
+    font-size: xx-large;
 }
 
 .how>p {
-    /* font-size: large; */
+    font-size: large;
     padding: 10px;
     font-weight: 500;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -340,11 +340,11 @@
 .who {
     padding: 15px;
     height: 500px;
-    /* background-color: aquamarine; */
+    background-color: aquamarine;
 }
 
 .who>h2 {
-    /* font-size: xx-large; */
+    font-size: xx-large;
     padding: 15px;
 }
 .who>h4{
