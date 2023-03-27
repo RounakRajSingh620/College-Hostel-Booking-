@@ -331,6 +331,7 @@
 }
 
 .how>p {
+    text-align: left;
     font-size: large;
     padding: 10px;
     font-weight: 500;
@@ -348,6 +349,7 @@
     padding: 15px;
 }
 .who>h4{
+    text-align: left;
     font-size: larger;
     padding: 10px;
 }
