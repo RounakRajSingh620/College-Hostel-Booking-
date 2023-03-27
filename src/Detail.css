@@ -303,12 +303,13 @@
     position: relative;
 }
 
-.info{
+.info {
     background-color: #FFFFFF;
     height: 800px;
-    width:100%;
+    width: 100%;
 }
-.info2{
+
+.info2 {
     height: 600px;
     display: flex;
     justify-content: center;
@@ -316,17 +317,44 @@
     margin-left: 150px;
     margin-right: 150px;
     padding-top: 50px;
-    
-    
-    
+    /* background-color: aliceblue; */
+}
 
-}
-.how{
+.how {
     height: 500px;
-   
-    
+    padding: 15px;
 }
-.who{
+
+.how>h2 {
+    padding: 15px;
+    /* font-size: xx-large; */
+}
+
+.how>p {
+    /* font-size: large; */
+    padding: 10px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.who {
+    padding: 15px;
     height: 500px;
-    
+    /* background-color: aquamarine; */
+}
+
+.who>h2 {
+    /* font-size: xx-large; */
+    padding: 15px;
+}
+.who>h4{
+    font-size: larger;
+    padding: 10px;
+}
+.who>p{font-size: large;
+    padding: 10px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
 }
