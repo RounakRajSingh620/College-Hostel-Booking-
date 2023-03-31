@@ -99,7 +99,7 @@ function Detail() {
                         <p>Email ID:hostel.helpdesk.ktr@srmist.edu.in</p>
                         <p><b>Contact Numbers</b> (Timings from 09.00 am to 06.00 pm) </p>
                         <p>&#8227; <b>Accounts Office - </b>044-27434503</p>
-                        <p>&#8227; <b>Hostel Office - </b>044-27453159, 044-27456363, 044-27434506, 044-27456364, 8056016602</p>
+                        <p>&#8227; <b>Hostel Office - </b>044-27453159, 044-27456363, 044-27434506, <br></br>044-27456364, 8056016602</p>
                     </div>
                 </div>
 
