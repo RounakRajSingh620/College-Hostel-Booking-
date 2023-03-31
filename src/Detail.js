@@ -89,8 +89,24 @@ function Detail() {
                 </div>
 
             </div>
+            <div className="helpdesk">
+                <div className="helpbox">
+                    <div className="helptitle">
+                        <h2>Helpdesk</h2>
+                        <h4>For any queries related to Hostels and Hostel Bookings, please contact</h4>
+                    </div>
+                    <div className="helpdetail">
+                        <p>Email ID:hostel.helpdesk.ktr@srmist.edu.in</p>
+                        <p><b>Contact Numbers</b> (Timings from 09.00 am to 06.00 pm) </p>
+                        <p>&#8227; <b>Accounts Office - </b>044-27434503</p>
+                        <p>&#8227; <b>Hostel Office - </b>044-27453159, 044-27456363, 044-27434506, 044-27456364, 8056016602</p>
+                    </div>
+                </div>
+
+            </div>
         </div>
     )
 }
+
 
 export default Detail
