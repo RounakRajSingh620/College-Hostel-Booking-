@@ -4,12 +4,16 @@
     background-color: blue;
     display: flex;
     justify-content: space-around;
+     color: whitesmoke;
 }
 .social_items{
     display: flex;
+    
 }
 .items{
     justify-content: space-between;
     display: flex;
     padding: 8px;
+     color: whitesmoke;
+   
 }
