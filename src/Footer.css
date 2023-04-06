@@ -6,6 +6,10 @@
     justify-content: space-around;
      color: whitesmoke;
 }
+.footer>p{
+    margin: 5px;
+    align-content: center;
+}
 .social_items{
     display: flex;
     
