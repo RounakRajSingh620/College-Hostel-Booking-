@@ -1,4 +1,15 @@
-.footer{
+.footer {
     padding: 20px;
-    height: 100px;
+    height: 40px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.social_items{
+    display: flex;
+}
+.items{
+    justify-content: space-between;
+    display: flex;
+    padding: 8px;
 }
